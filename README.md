@@ -1,5 +1,4 @@
-# STUDENT-MARK
-Student mark report
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
